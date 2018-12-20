@@ -1,2 +1,2 @@
-# headBand-
+# headBand
 headBand插件
